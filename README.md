@@ -13,7 +13,7 @@
 - Game development with Unity
 
 **🌱 I’m currently learning:**
-- C/C++/Qt/QML/Swift (right now on an internship in IT company)
+- C/C++/Qt/QML/Swift/Blockchain/Solidity (right now on an internship in IT company)
 - Yandex - C++ Developer course (already passed 2/5 belts)
 - Git markdown (and currently change structure of my project here)
 
